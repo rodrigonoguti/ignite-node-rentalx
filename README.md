@@ -10,6 +10,8 @@ Main technologies and tools:
 - Jest
 - SOLID
 - Github actions
+- Redis (for API request rate limiter)
+- Sentry
 
 To run the project on localhost, follow the steps:
 - Clone the repository
